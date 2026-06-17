@@ -1,7 +1,6 @@
 # 第三方源码仓库 (不需要提交)
-VIBE-TRADING/
-vibe-trading-src/
-a-stock-data-src/
+投研看板/VIBE-TRADING/
+投研看板/a-stock-data/
 
 # 编译产物和临时文件
 __pycache__/
